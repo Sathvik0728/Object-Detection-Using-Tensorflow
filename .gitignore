@@ -1,0 +1,17 @@
+# TensorFlow model folders
+faster-rcnn-*
+mobilenet-*
+
+# Videos
+*.mp4
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
